@@ -1,4 +1,4 @@
-package com.itheima.reggie.config;
+package com.JonathanLTK.reggie.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Configuration;

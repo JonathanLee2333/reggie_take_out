@@ -1,7 +1,7 @@
-package com.itheima.reggie.service;
+package com.JonathanLTK.reggie.service;
 
+import com.JonathanLTK.reggie.entity.Employee;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.itheima.reggie.entity.Employee;
 
 public interface EmployeeService extends IService<Employee> {
 }
